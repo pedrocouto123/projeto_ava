@@ -1,0 +1,83 @@
+#topo{
+    height: 54px;
+    width: 100%;
+    background-color: #68912E;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+#img1{
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 0.2rem;
+}
+.texto{
+    margin-left: 76px;
+    margin-top:15px;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 31px;
+    color: #68912E;
+}
+#nana{
+    font-family: Arial;
+    font-size: 10px;
+    color: #68912E;
+}
+#hr{
+    margin-top: 13px;
+}
+#k{
+    margin-top: -13px;
+}
+#pedro{
+    margin-left: 75px;
+    margin-top: 0px;
+}
+#med{
+    margin-left: 75px;
+    margin-top: 34px;
+}
+#table1{
+    margin-left: 75px;
+    border-color: white;
+    border: 3px solid white;
+}
+.ifes{
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    color: #68912E;
+    margin-left: 24px;
+}
+.ifes1{
+    font-family: Arial;
+    font-size: 13px;
+    color: #68912E;
+    margin-left: 24px;
+}
+td{
+    height: 55px;
+    width: 868px;
+}
+a{
+    text-decoration: none;
+}
+#final{
+    background-color: #68912E;
+    height: 16px;
+}
+#table{
+    width: 89%;
+    margin-left: 75px;
+}
+#one{
+    width: 421px;
+}
+#two{
+    width: 427px;
+}
+#three{
+    width: 275px;
+}
