@@ -1,5 +1,5 @@
 #topo{
-    height: 54px;
+    height: 3.375rem;
     width: 100%;
     background-color: #68912E;
 }
@@ -9,75 +9,75 @@
 }
 #img1{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 3.125rem;
     border-radius: 0.2rem;
 }
 .texto{
-    margin-left: 76px;
-    margin-top:15px;
+    margin-left: 4.75rem;
+    margin-top: 0.9375rem;
 }
 p{
     font-family: 'Oswald', sans-serif;
-    font-size: 31px;
+    font-size: 1.9375rem;
     color: #68912E;
 }
 #nana{
     font-family: Arial;
-    font-size: 10px;
+    font-size: 0.625rem;
     color: #68912E;
 }
 #hr{
-    margin-top: 13px;
+    margin-top: 0.8125rem;
 }
 #k{
-    margin-top: -13px;
+    margin-top: -0.8125rem;
 }
 #pedro{
-    margin-left: 75px;
-    margin-top: 0px;
+    margin-left: 4.6875rem;
+    margin-top: 0rem;
 }
 #med{
-    margin-left: 75px;
-    margin-top: 34px;
+    margin-left: 4.6875rem;
+    margin-top: 2.125rem;
 }
 #table1{
-    margin-left: 75px;
+    margin-left: 4.6875rem;
     border-color: white;
-    border: 3px solid white;
+    border: 0.1875rem solid white;
 }
 .ifes{
     font-family: 'Oswald', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #68912E;
-    margin-left: 24px;
+    margin-left: 1.5rem;
 }
 .ifes1{
     font-family: Arial;
-    font-size: 13px;
+    font-size: 0.8125rem;
     color: #68912E;
-    margin-left: 24px;
+    margin-left: 1.5rem;
 }
 td{
-    height: 55px;
-    width: 868px;
+    height: 3.4375rem;
+    width: 54.25rem;
 }
 a{
     text-decoration: none;
 }
 #final{
     background-color: #68912E;
-    height: 16px;
+    height: 1rem;
 }
 #table{
     width: 89%;
-    margin-left: 75px;
+    margin-left: 4.6875rem;
 }
 #one{
-    width: 421px;
+    width: 26.3125rem;
 }
 #two{
-    width: 427px;
+    width: 26.6875rem;
 }
 #three{
-    width: 275px;
+    width: 17.1875rem;
 }
