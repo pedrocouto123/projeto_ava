@@ -1,0 +1,133 @@
+#topo{
+    height: 5rem;
+    width: 100%;
+    background-color: #121214;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+#img1{
+    text-align: center;
+    margin-top: 3.125rem;
+    border-radius: 0.2rem;
+}
+.texto{
+    margin-left: 4.75rem;
+    margin-top: 0.9375rem;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.9375rem;
+    color: #121214;
+}
+#nana{
+    font-family: Arial;
+    font-size: 0.625rem;
+    color: #121214;
+}
+#hr{
+    margin-top: 0.8125rem;
+}
+#k{
+    margin-top: -0.8125rem;
+}
+#pedro{
+    margin-left: 4.6875rem;
+    margin-top: 0rem;
+}
+#med{
+    margin-left: 4.6875rem;
+    margin-top: 2.125rem;
+}
+#table1{
+    margin-left: 4.6875rem;
+    border-color: white;
+    border: 0.1875rem solid white;
+}
+.ifes{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: #121214;
+    margin-left: 1.5rem;
+}
+.ifes1{
+    font-family: Arial;
+    font-size: 0.8125rem;
+    color: #121214;
+    margin-left: 1.5rem;
+}
+td{
+    height: 3.4375rem;
+    width: 54.25rem;
+}
+a{
+    text-decoration: none;
+}
+#final{
+    background-color: #121214;
+    height: 1rem;
+}
+#table{
+    width: 89%;
+    margin-left: 4.6875rem;
+}
+#one{
+    width: 26.3125rem;
+}
+#two{
+    width: 26.6875rem;
+}
+#three{
+    width: 17.1875rem;
+}
+#j{
+    height: 19rem;
+    
+}
+.tabela{
+    margin-left: 4.6rem;
+    margin-top: 1.5rem;
+    width: 30%;
+}
+
+.tabela1{
+    margin-left: 31rem;
+    margin-top: 1.5rem;
+    width: 30%;
+    
+}
+
+.tabela2{
+    margin-left: 58rem;
+    margin-top: 1.5rem;
+    width: 30%;
+}
+#v{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    color: #121214;
+}
+#reis{
+    margin-top: -1.6rem;
+    border-radius: 0.3rem;
+    width: 65%;
+    height: 90%;
+}
+
+#a{
+    height: 14rem;
+}
+
+#b{
+    height: 14rem;
+    
+}
+.tablek{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+td{
+    height: 15rem;
+}
